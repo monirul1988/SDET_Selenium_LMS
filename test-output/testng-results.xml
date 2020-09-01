@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="13" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44608" started-at="2020-09-01T10:44:56 IST" finished-at="2020-09-01T10:45:41 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44608" started-at="2020-09-01T10:44:56 IST" finished-at="2020-09-01T10:45:41 IST">
+      <class name="TestNG.NewTest3">
+        <test-method status="PASS" signature="ContactUsModuleVerify()[pri:1, instance:TestNG.NewTest3@6321e813]" name="ContactUsModuleVerify" duration-ms="7534" started-at="2020-09-01T10:45:33 IST" finished-at="2020-09-01T10:45:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsModuleVerify -->
+      </class> <!-- TestNG.NewTest3 -->
+      <class name="TestNG.NewTest">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:TestNG.NewTest@3a883ce7]" name="initializeDriver" is-config="true" duration-ms="8656" started-at="2020-09-01T10:44:56 IST" finished-at="2020-09-01T10:45:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="titleVerify()[pri:1, instance:TestNG.NewTest@3a883ce7]" name="titleVerify" duration-ms="4184" started-at="2020-09-01T10:45:05 IST" finished-at="2020-09-01T10:45:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerify -->
+        <test-method status="PASS" signature="HeadingVerify()[pri:2, instance:TestNG.NewTest@3a883ce7]" name="HeadingVerify" duration-ms="49" started-at="2020-09-01T10:45:09 IST" finished-at="2020-09-01T10:45:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HeadingVerify -->
+        <test-method status="PASS" signature="FirstInfoboxVerify()[pri:3, instance:TestNG.NewTest@3a883ce7]" name="FirstInfoboxVerify" duration-ms="5037" started-at="2020-09-01T10:45:09 IST" finished-at="2020-09-01T10:45:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstInfoboxVerify -->
+        <test-method status="PASS" signature="SecondMostPopularcourseVerify()[pri:4, instance:TestNG.NewTest@3a883ce7]" name="SecondMostPopularcourseVerify" duration-ms="73" started-at="2020-09-01T10:45:14 IST" finished-at="2020-09-01T10:45:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondMostPopularcourseVerify -->
+        <test-method status="PASS" signature="NumberOfCourseVerify()[pri:5, instance:TestNG.NewTest@3a883ce7]" name="NumberOfCourseVerify" duration-ms="860" started-at="2020-09-01T10:45:14 IST" finished-at="2020-09-01T10:45:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumberOfCourseVerify -->
+        <test-method status="PASS" signature="SompletelessionVerify()[pri:9, instance:TestNG.NewTest@3a883ce7]" name="SompletelessionVerify" duration-ms="164" started-at="2020-09-01T10:45:15 IST" finished-at="2020-09-01T10:45:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SompletelessionVerify -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestNG.NewTest@3a883ce7]" name="teardown" is-config="true" duration-ms="167" started-at="2020-09-01T10:45:41 IST" finished-at="2020-09-01T10:45:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNG.NewTest -->
+      <class name="TestNG.NewTest2">
+        <test-method status="PASS" signature="MyaccountLoginVerify()[pri:5, instance:TestNG.NewTest2@4973813a]" name="MyaccountLoginVerify" duration-ms="46" started-at="2020-09-01T10:45:15 IST" finished-at="2020-09-01T10:45:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyaccountLoginVerify -->
+        <test-method status="PASS" signature="MyaccountloginAccessVerify()[pri:0, instance:TestNG.NewTest2@4973813a]" name="MyaccountloginAccessVerify" duration-ms="17756" started-at="2020-09-01T10:45:16 IST" depends-on-methods="TestNG.NewTest2.MyaccountLoginVerify" finished-at="2020-09-01T10:45:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyaccountloginAccessVerify -->
+      </class> <!-- TestNG.NewTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
